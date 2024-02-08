@@ -1,1 +1,78 @@
-
+#main{
+      background-color: #025939;
+		width: 960px;
+		
+		
+}
+#head{
+		text-align: center;
+		font-size: 50px;
+ 		opacity: .8;
+		margin-bottom: -100px;
+		padding-bottom: 20px;
+		margin: auto;
+		text-shadow: 4px 4px 2px gray;
+}
+#words{
+		font-size: 35px;
+}
+#LittleHeads{
+		font-size: 45px;
+}
+#searchbar{
+		position: fixed;
+		top: 5%;
+		right: 5%;
+		background-color: #025939;
+		opacity: .7;
+		color: pigmentgreen;
+		font-weight: bold;
+		width: 20%;
+		padding: 15px;
+		padding-top:40px;
+}
+a{
+	             display: block;
+		          padding: 8px;	
+					 margin: 10px;
+		          background-color: aquamarine;
+					 border: 2px solid black;
+					 border-radius: 25px;
+					 padding-top: 25px;
+					 padding-bottom: 25px;
+					 background-repeat: no-repeat;
+					 background-size: auto;
+					 width: 180px;
+					 text-align: center;
+	             }		
+a:link {   
+		          text-decoration: none;
+                color: #3d9985;
+					 text-shadow: .5px .5px .5px black;
+                }
+a:visited {
+		          text-decoration: none;
+                color: #3d9985;
+					 text-shadow: .5px .5px .5px black;
+		          }   
+a:hover {
+					 text-decoration: none;
+					 color: white; 
+				    background-color: #689bed;	
+					 font-weight: bold;
+	             } 
+body{
+		background: url("../images/Background.png");
+		Background-attachment: fixed;
+		color: pigmentgreen;
+		font-weight: bold;
+					 }
+section{
+		opacity: .7;
+}
+article{
+		margin: 10px; 
+}
+hr{
+		color: pigmentgreen;
+}
