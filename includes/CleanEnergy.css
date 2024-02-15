@@ -31,6 +31,9 @@
 		padding: 15px;
 		padding-top:40px;
 }
+#links{
+	text-align: center;
+}
 a{
 	             display: block;
 		          padding: 8px;	
