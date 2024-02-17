@@ -89,6 +89,7 @@ a:hover {
 body{
 		background: url("../images/Background.png");
   		background-repeat: no-repeat;
+		background-attachment: fixed;
 		color: pigmentgreen;
 		font-weight: bold;
 					 }
