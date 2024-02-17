@@ -34,7 +34,6 @@
 }
 #Ads{
 		position: fixed;
-		bottom: 5%;
 		right: 5%;
 		background-color: #025939;
 		opacity: .7;
@@ -44,7 +43,7 @@
 		padding: 15px;
 		padding-top:40px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 640px) {
   #Ads {
     width: 35%;
   }
