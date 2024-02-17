@@ -92,7 +92,7 @@ a:hover {
 	             } 
 body{
 		background: url("../images/Background.png");
-		Background-attachment: fixed;
+		background-size: cover;
 		color: pigmentgreen;
 		font-weight: bold;
 					 }
