@@ -35,34 +35,36 @@
 	text-align: center;
 }
 a{
-	             display: block;
-		          padding: 8px;	
-					 margin: 10px;
-		          background-color: aquamarine;
-					 border: 2px solid black;
-					 border-radius: 25px;
-					 padding-top: 25px;
-					 padding-bottom: 25px;
-					 background-repeat: no-repeat;
-					 background-size: auto;
-					 width: 85%;
-					 text-align: center;
+	display: block;
+	padding: 8px;	
+	margin: 10px;
+	margin-left: 7.5%;
+	margin-right: 7.5%
+	background-color: aquamarine;
+	border: 2px solid black;
+	border-radius: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-repeat: no-repeat;
+	background-size: auto;
+	width: 85%;
+	text-align: center;
 	             }		
 a:link {   
-		          text-decoration: none;
+		text-decoration: none;
                 color: #3d9985;
-					 text-shadow: .5px .5px .5px black;
+		text-shadow: .5px .5px .5px black;
                 }
 a:visited {
-		          text-decoration: none;
+		text-decoration: none;
                 color: #3d9985;
-					 text-shadow: .5px .5px .5px black;
+		text-shadow: .5px .5px .5px black;
 		          }   
 a:hover {
-					 text-decoration: none;
-					 color: white; 
-				    background-color: #689bed;	
-					 font-weight: bold;
+		text-decoration: none;
+		color: white; 
+		background-color: #689bed;	
+		font-weight: bold;
 	             } 
 body{
 		background: url("../images/Background.png");
