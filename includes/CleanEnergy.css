@@ -31,6 +31,18 @@
 		padding: 15px;
 		padding-top:40px;
 }
+#ads{
+		position: fixed;
+		top: 5%;
+		right: 5%;
+		background-color: #025939;
+		opacity: .7;
+		color: pigmentgreen;
+		font-weight: bold;
+		width: 20%;
+		padding: 15px;
+		padding-top:40px;
+}
 #links{
 	text-align: center;
 }
