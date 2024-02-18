@@ -57,6 +57,8 @@
 }
 #right{
 	float: right;
+	position: relative;
+	top: 2%;
 }
 #left{
 	float: left;
