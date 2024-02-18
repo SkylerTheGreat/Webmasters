@@ -55,6 +55,12 @@
 #links{
 	text-align: center;
 }
+#right{
+	float: right;
+}
+#left{
+	float: left;
+}
 a{
 	display: block;
 	padding: 8px;	
