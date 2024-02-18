@@ -36,7 +36,7 @@
 		bottom: 5%;
 		right: 5%;
 		background-color: #025939;
-		opacity: .7;
+		opacity: 1;
 		color: pigmentgreen;
 		font-weight: bold;
 		width: 20%;
@@ -97,7 +97,7 @@ body{
 		font-weight: bold;
 					 }
 section{
-		opacity: .7;
+		opacity:1;
 }
 article{
 		margin: 10px; 
