@@ -61,6 +61,9 @@
 #left{
 	float: left;
 }
+#spon{
+	font-size: 15%;
+}
 a{
 	display: block;
 	padding: 8px;	
