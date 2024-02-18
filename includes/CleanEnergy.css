@@ -7,7 +7,6 @@
 #head{
 		text-align: center;
 		font-size: 50px;
- 		opacity: .8;
 		margin-bottom: -100px;
 		padding-bottom: 20px;
 		margin: auto;
@@ -24,7 +23,6 @@
 		top: 5%;
 		right: 5%;
 		background-color: #025939;
-		opacity: .7;
 		color: pigmentgreen;
 		font-weight: bold;
 		width: 20%;
@@ -36,7 +34,6 @@
 		bottom: 5%;
 		right: 5%;
 		background-color: #025939;
-		opacity: 1;
 		color: pigmentgreen;
 		font-weight: bold;
 		width: 20%;
@@ -97,7 +94,6 @@ body{
 		font-weight: bold;
 					 }
 section{
-		opacity:1;
 }
 article{
 		margin: 10px; 
@@ -107,5 +103,4 @@ hr{
 }
 img{
 	width: 17%;
-	opacity: 1;
 }
