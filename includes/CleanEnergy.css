@@ -49,17 +49,17 @@
 #ad{
 	width: 80%;
 }
-@media screen and (max-width: 1280px) {
-#Ads {
-    	width: 35%;
-}
-#ad{
-	width: 90%;
-}
-#main{
-      background-color: blue;
-}
-}
+	@media screen and (max-width: 1280px) {
+	#searchbar {
+	    	width: 35%;
+	}
+	#ad{
+		width: 90%;
+	}
+	#main{
+	      background-color: blue;
+	}
+	}
 #links{
 	text-align: center;
 }
