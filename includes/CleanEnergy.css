@@ -17,6 +17,7 @@
 }
 #LittleHeads{
 		font-size: 45px;
+		text-shadow: 4px 4px 2px gray;
 }
 #searchbar{
 		position: fixed;
