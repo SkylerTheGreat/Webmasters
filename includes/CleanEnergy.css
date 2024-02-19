@@ -49,7 +49,7 @@
 #ad{
 	width: 80%;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 980px) {
 #Ads {
     width: 35%;
 }
