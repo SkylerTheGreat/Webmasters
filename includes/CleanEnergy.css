@@ -56,9 +56,9 @@
 	text-align: center;
 }
 #right{
-	float: right;
 	position: relative;
 	top: 2%;
+	right: 1%;
 }
 #left{
 	float: left;
