@@ -70,14 +70,14 @@
 a{
 	display: block;
 	padding: 8px;	
-	margin: 10px;
+	margin: 5px;
 	margin-left: 7.5%;
 	margin-right: 7.5%;
 	background-color: aquamarine;
 	border: 2px solid black;
 	border-radius: 25px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	background-repeat: no-repeat;
 	background-size: auto;
 	width: 85%;
