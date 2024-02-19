@@ -56,13 +56,14 @@
 	text-align: center;
 }
 #right{
-	position: absolute;
+	position: relative;
 	top: 2%;
 	right: -10%
 }
 #left{
 	position: relative;
 	top: 2%;
+	left: 10%;
 }
 #spon{
 	font-size: 36px;
