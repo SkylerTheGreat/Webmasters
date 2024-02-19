@@ -12,6 +12,9 @@
 		margin: auto;
 		text-shadow: 4px 4px 2px gray;
 }
+#name{
+	top: 50%
+}
 #words{
 		font-size: 35px;
 }
