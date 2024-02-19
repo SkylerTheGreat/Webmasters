@@ -58,12 +58,12 @@
 #right{
 	position: relative;
 	top: 2%;
-	right: -10%
+	right: -20%
 }
 #left{
 	position: relative;
 	top: 2%;
-	left: 10%;
+	left: -20%;
 }
 #spon{
 	font-size: 36px;
