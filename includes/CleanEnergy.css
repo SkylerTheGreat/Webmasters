@@ -4,6 +4,9 @@
 		opacity: 0.8;
 		
 }
+#home{
+		width: 50%;
+}
 #head{
 		text-align: center;
 		font-size: 50px;
