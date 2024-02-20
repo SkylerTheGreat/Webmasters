@@ -18,6 +18,7 @@
 #second{
 		background-color: #17bd38;
 		color: #025939;
+		text-shadow: 0px 0px 0px gray;
 }
 #name{
 		position: static;
