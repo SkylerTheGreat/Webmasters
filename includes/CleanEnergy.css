@@ -1,7 +1,7 @@
 #main{
-      background-color: #025939;
+      		background-color: #025939;
 		width: 55%;
-		
+		opacity: 0.7;
 		
 }
 #head{
@@ -13,8 +13,8 @@
 		text-shadow: 4px 4px 2px gray;
 }
 #name{
-	position: static;
-	top: 50%;
+		position: static;
+		top: 50%;
 }
 #words{
 		font-size: 35px;
