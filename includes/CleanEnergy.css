@@ -12,6 +12,9 @@
 		margin: auto;
 		text-shadow: 4px 4px 2px gray;
 }
+#second{
+		background-color: #17bd38;
+}
 #name{
 		position: static;
 		top: 50%;
