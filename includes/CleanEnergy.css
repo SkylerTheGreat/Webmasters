@@ -63,14 +63,25 @@
 #ad{
 	width: 80%;
 }
-	@media screen and (max-width: 1280px) {
-	#searchbar {
+	@media screen and (max-width: 1080px) {
+		#searchbar {
 	    	width: 35%;
 	}
-	#ad{
+		#ad{
 		width: 90%;
 	}
-	a{
+		a{
+		font-size: 23px;
+	}
+	}
+	@media screen and (min-width: 1081px) and (max-width: 1280px) {
+		#searchbar {
+	    	width: 25%;
+	}
+		#ad{
+		width: 90%;
+	}
+		a{
 		font-size: 23px;
 	}
 	}
